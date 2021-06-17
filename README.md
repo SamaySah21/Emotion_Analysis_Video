@@ -1,2 +1,1 @@
-# Sentiment_Analysis_Video
-sentiment and emotion analysis model
+Use any dataset from kaggle, huggingface and change the data path etc.
